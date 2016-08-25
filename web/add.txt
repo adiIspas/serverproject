@@ -1,10 +1,10 @@
 AppBundle\Entity\File Object
 (
-    [id:protected] => 1
+    [id:protected] => 2
     [domain:protected] => messages
-    [locale:protected] => ro
+    [locale:protected] => en
     [extention:protected] => yml
     [path:protected] => Resources/translations
-    [hash:protected] => d1ae5be3f295a3b75d6b987fd7af72de
+    [hash:protected] => d7886bc44b7dcf86809a262d3cf25bc2
     [translations:protected] => 
 )
