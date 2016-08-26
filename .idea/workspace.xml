@@ -22,7 +22,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TransUnitController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TransUnitController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/TransUnitController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="169">
@@ -30,6 +30,16 @@
               <folding>
                 <element signature="e#40#66#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppKernel.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,6 +60,7 @@
             <state relative-caret-position="187">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="2" selection-end-line="18" selection-end-column="3" />
               <folding>
+                <element signature="e#7#52#0#PHP" expanded="false" />
                 <marker date="1472046487342" expanded="true" signature="738:886" ph="..." />
               </folding>
             </state>
@@ -320,18 +331,18 @@
       <workItem from="1471868514434" duration="4071000" />
       <workItem from="1471932908401" duration="2875000" />
       <workItem from="1472046475651" duration="3960000" />
-      <workItem from="1472120549471" duration="693000" />
+      <workItem from="1472120549471" duration="2106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166609000" />
+    <option name="totallyTimeSpent" value="168022000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18017058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18017058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -394,14 +405,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Util/Doctrine/SingleColumnArrayHydrator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/config/doctrine/Translation.mongodb.xml" />
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/config/doctrine/File.mongodb.xml" />
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/config/doctrine/Translation.orm.xml" />
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/config/doctrine/File.orm.xml" />
@@ -680,6 +683,7 @@
         <state relative-caret-position="187">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="2" selection-end-line="18" selection-end-column="3" />
           <folding>
+            <element signature="e#7#52#0#PHP" expanded="false" />
             <marker date="1472046487342" expanded="true" signature="738:886" ph="..." />
           </folding>
         </state>
@@ -700,6 +704,22 @@
           <folding>
             <element signature="e#40#66#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
