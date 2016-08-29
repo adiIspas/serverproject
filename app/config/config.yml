@@ -106,3 +106,11 @@ jms_serializer:
             AppBundle:
                 namespace_prefix: "AppBundle\\Entity"
                 path: "@AppBundle/Resources/config/serializer"
+
+#lsw_memcache:
+#    session:
+#        pool: default
+#    pools:
+#        default:
+#            servers:
+#              - { host: localhost, tcp_port: 11211 }
