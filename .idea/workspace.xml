@@ -35,8 +35,8 @@
       <file leaf-file-name="config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/config/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="109" column="0" selection-start-line="109" selection-start-column="1" selection-end-line="115" selection-end-column="53" />
+            <state relative-caret-position="699">
+              <caret line="112" column="11" selection-start-line="112" selection-start-column="11" selection-end-line="112" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -376,15 +376,15 @@
       <workItem from="1471868514434" duration="4071000" />
       <workItem from="1471932908401" duration="2875000" />
       <workItem from="1472046475651" duration="3960000" />
-      <workItem from="1472120549471" duration="6189000" />
+      <workItem from="1472120549471" duration="7386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172105000" />
+    <option name="totallyTimeSpent" value="173302000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18017058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -769,8 +769,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="109" column="0" selection-start-line="109" selection-start-column="1" selection-end-line="115" selection-end-column="53" />
+        <state relative-caret-position="699">
+          <caret line="112" column="11" selection-start-line="112" selection-start-column="11" selection-end-line="112" selection-end-column="11" />
           <folding />
         </state>
       </provider>
